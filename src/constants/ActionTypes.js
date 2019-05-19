@@ -1,0 +1,5 @@
+export const CHANGE_FONT_SIZE = "CHANGE_FONT_SIZE";
+export const FETCH_POSTS = "FETCH_POSTS";
+
+export const INCREASE_COUNT = "INCREASE_COUNT";
+export const DECREASE_COUNT = "DECREASE_COUNT";
